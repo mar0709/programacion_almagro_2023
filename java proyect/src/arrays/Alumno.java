@@ -4,7 +4,8 @@ package arrays;
 public class Alumno {
 	private String nombre; 
 	private String apellido;
-	private Asignatura [] asignaturas; 
+	private Asignatura [] asignaturas  ; 
+	
 	
 	public Alumno(String nombre, String apellido, Asignatura[] asignaturas) {
 		super();
